@@ -1,0 +1,19 @@
+文件名以及对应的文本名称。
+---123：		测试
+---a：		测试
+ANTUS:		安徒生童话-中文
+BLSMY：		巴黎圣母院-中文
+EMMA:		爱玛-英文
+GLCGX：		管理长歌行-中文
+gone_with_the_wind：	飘-英文
+King_Solomon：	所罗门王的宝藏-英文
+LJ：		亮剑-中文
+LUNYU：		论语-中文
+MGZC：		暮光之城-英文
+PFDSJ：		平凡的世界-中文
+potter1：		哈利波特部分-英文
+SANGUO：	三国演义-中文
+schooldays：	学生时代-英文
+tt1：		测试
+wch：		围城-中文
+ZUOZHDZJ：	做最好的自己-中文
