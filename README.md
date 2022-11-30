@@ -1,4 +1,4 @@
-<h3>optimizations-on-LZW-for-Chinese-text-compression</h3>
+<h2>optimizations-on-LZW-for-Chinese-text-compression</h2>
 
 Optimizations on LZW for Chinese text compression in JAVA.
 
