@@ -1,6 +1,32 @@
-<H3>README
-姓名： 庞懿非   学号： 3190104534
+<h3>README</h3>
 
+  This project is a Java project established under Eclipse. The project name is LZW, which contains 6 folders, 2 configuration files and 1 GB2312 character file.
+
+
+- LZW
+
+  - .settings, folder: Configuration information
+  - bin, folder: bytecode
+  - src, folder: **source code**
+
+    - LZW_main.java is the main file, which can be compressed and decompressed by modifying the dictionary size, algorithm number and file path. The file path is recommended to use the relative path I created (do not damage the engineering structure).
+  - TEXT,folder: The original text, in which the initial letter of the original name of the novel is capitalized for the sake of simplicity. For details, you can click the file to view, or you can view the README.txt in the folder
+  - COMPRESS_hex, folder: corresponds to the file name in the TEXT folder to store the compressed content. Using the hex suffix, you can view the binary stream with VSCode's **hexdump**
+  - DE_TEXT, folder: Stores the extracted text file, corresponding to the names in the first two folders.
+  - data.xlsx: Stores all experimental data and ICONS
+  - report: File experiment report
+  - thesis: The main source of my algorithmic ideas (implementations vary), the paper comes with some simple Chinese comments that can be opened with the Edge browser to see the comments. 
+
+
+
+
+Thanks for checking, you can see the program information in the report or code comments.
+  
+  
+  
+  
+  
+  
 本工程是在Eclipse下建立的Java工程，工程名为LZW，下含6个文件夹，2个配置文件以及1个GB2312字符文件。
 
 - LZW
