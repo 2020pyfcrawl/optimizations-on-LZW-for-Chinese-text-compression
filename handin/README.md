@@ -18,15 +18,11 @@
   - thesis: The main source of my algorithmic ideas (implementations vary), the paper comes with some simple Chinese comments that can be opened with the Edge browser to see the comments. 
 
 
-
-
 Thanks for checking, you can see the program information in the report or code comments.
   
   
-  
-  
-  
-  
+  <br><br>
+<h4>Translation in Chinese</h4>
 本工程是在Eclipse下建立的Java工程，工程名为LZW，下含6个文件夹，2个配置文件以及1个GB2312字符文件。
 
 - LZW
